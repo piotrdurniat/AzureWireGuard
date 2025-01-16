@@ -6,6 +6,7 @@
             "defaultValue": "eastus",
             "type": "string",
             "allowedValues": [
+                "polandcentral",
                 "eastus",
                 "eastus2",
                 "southcentralus",
